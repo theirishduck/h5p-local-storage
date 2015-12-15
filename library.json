@@ -1,0 +1,15 @@
+{
+  "title": "LocalStorage",
+  "contentType": "Api",
+  "description": "Allows you to get and set data from LocalStorage",
+  "majorVersion": 1,
+  "minorVersion": 0,
+  "patchVersion": 0,
+  "runnable": 0,
+  "machineName": "H5P.LocalStorage",
+  "preloadedJs": [
+    {
+      "path": "scripts/LocalStorage.js"
+    }
+  ]
+}
